@@ -20,3 +20,9 @@ Cookiecutter template for amazing
 - 👀 A couple of ready-to-go pre-commit hooks
 
 More information is in the [README](./{{cookiecutter.workflow_dir}}/README.md)
+
+## Usage
+
+```shell script
+cookiecutter https://github.com/fbjorn/alfred-python-template
+```
