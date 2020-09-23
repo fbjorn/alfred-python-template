@@ -1,0 +1,7 @@
+{
+  "workflow_name": "My Awesome Workflow",
+  "workflow_dir": "my-awesome-workflow",
+  "github_repo": "https://github.com/username/my-awesome-workflow",
+  "bundle_id": "com.fbjorn.workflow.template",
+  "author": "Jane Doe"
+}

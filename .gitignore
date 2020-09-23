@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+
+!{{cookiecutter.workflow_dir}}/lib/__init__.py
