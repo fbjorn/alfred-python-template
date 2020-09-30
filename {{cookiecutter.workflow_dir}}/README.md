@@ -17,9 +17,12 @@ of `Makefile`
 🐍 Adding new python dependency:
 
 1. Add it to the `_requirements.txt`
-2. Install: `shell script make pip ` _It's not called `requirements.txt` cause
-   it's being installed in the `lib` folder, and (at least) PyCharm complains
-   about packages resolution_
+
+   (_It's not called `requirements.txt` cause
+   libraries are being installed in the `lib` folder, and (at least) PyCharm complains
+   about packages resolution_)
+2. Install: `make pip ` 
+   
 
 > Next part is a suggested README
 
